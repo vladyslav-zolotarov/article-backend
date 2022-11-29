@@ -1,7 +1,7 @@
 {
   "name": "backend-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "backend application",
   "main": "index.js",
   "type": "module",
   "engines": {
